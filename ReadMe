@@ -1,0 +1,19 @@
+Please check out this link for the Udemy course - https://glucode.udemy.com/ios-12-app-development-bootcamp/learn/lecture/10929508?start=0#overview
+
+Postman can be downloaded here - https://www.getpostman.com/
+You can simply import "Clima.postman_collection.json" to get the request.
+
+I did not include the environment setup as it includes my unique addID, please read the API docs to learn how to create your own appID.
+If you need help setting up the environment please ask, or simply strip out my variables and create your own, or just dump the whole URL to get started :) 
+
+OpenWeather API (and the API docs) - http://api.openweathermap.org/data/2.5/weather 
+
+It's a good idea to have a decent ext editor installed, I use Atom - https://atom.io/
+I recommend you install this package to prettify any JSON objects - https://atom.io/packages/pretty-json 
+This can be done from the preferences within Atom (it's really easy - but I'm happy to help just ping me or ask Google :P) 
+
+Lastly this guy seems to know a whole lot about WireMock, please check it out - https://handstandsam.com/category/wiremock/
+I know It has Android in the name but it's worth a look, and the video recourses helped me a lot.
+
+Lastly I would like to point you guys towards the WireMock docs - http://wiremock.org/docs/record-playback/
+A very good place to start :) (weird that I mention it last right?)

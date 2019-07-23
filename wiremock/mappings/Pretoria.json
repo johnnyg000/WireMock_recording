@@ -1,0 +1,22 @@
+{
+  "id" : "0f96b697-b1df-383b-82fd-ed3027574322",
+  "request" : {
+    "url" : "/?appid=8b3b5abde00feb8c226f99b10a0649a0&q=Pretoria",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "Pretoria.json",
+    "headers" : {
+      "Server" : "openresty",
+      "Date" : "Tue, 23 Jul 2019 05:06:49 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Connection" : "keep-alive",
+      "X-Cache-Key" : "/data/2.5/weather/?q=pretoria",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET, POST"
+    }
+  },
+  "uuid" : "0f96b697-b1df-383b-82fd-ed3027574322"
+}

@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "5de8dc8e-393f-498c-b432-1fb119a6e862",
+		"name": "Clima",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Clima city request",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{domain}}?appid={{appid}}&q=Pretoria",
+					"host": [
+						"{{domain}}"
+					],
+					"query": [
+						{
+							"key": "appid",
+							"value": "{{appid}}",
+							"description": "Unique identifier for the app  "
+						},
+						{
+							"key": "q",
+							"value": "Pretoria",
+							"description": "The name of the city"
+						}
+					]
+				},
+				"description": "Send a request to get weather for a city "
+			},
+			"response": []
+		}
+	]
+}

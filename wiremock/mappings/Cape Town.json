@@ -1,0 +1,22 @@
+{
+  "id" : "e9a3152c-1946-3a7f-80cf-05f1bb517188",
+  "request" : {
+    "url" : "/?appid=8b3b5abde00feb8c226f99b10a0649a0&q=Cape%20Town",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "Cape Town.json",
+    "headers" : {
+      "Server" : "openresty",
+      "Date" : "Tue, 23 Jul 2019 05:08:50 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Connection" : "keep-alive",
+      "X-Cache-Key" : "/data/2.5/weather/?q=cape%20town",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET, POST"
+    }
+  },
+  "uuid" : "e9a3152c-1946-3a7f-80cf-05f1bb517188"
+}

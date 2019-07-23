@@ -1,0 +1,22 @@
+{
+  "id" : "d023e43b-4f8f-366a-ae5e-537caa62b541",
+  "request" : {
+    "url" : "/?appid=8b3b5abde00feb8c226f99b10a0649a0&q=Putsonderwater",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 404,
+    "bodyFileName" : "body-(root)-zio6I.json",
+    "headers" : {
+      "Server" : "openresty",
+      "Date" : "Tue, 23 Jul 2019 11:12:30 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Connection" : "keep-alive",
+      "X-Cache-Key" : "/data/2.5/weather/?q=putsonderwater",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET, POST"
+    }
+  },
+  "uuid" : "d023e43b-4f8f-366a-ae5e-537caa62b541"
+}

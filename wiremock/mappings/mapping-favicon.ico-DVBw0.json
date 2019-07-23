@@ -1,0 +1,22 @@
+{
+  "id" : "79480d71-23b9-383f-ae81-24cdd8b61666",
+  "request" : {
+    "url" : "/favicon.ico",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 401,
+    "bodyFileName" : "body-favicon.ico-DVBw0.ico",
+    "headers" : {
+      "Server" : "openresty",
+      "Date" : "Tue, 23 Jul 2019 11:20:21 GMT",
+      "Content-Type" : "image/x-icon",
+      "Connection" : "keep-alive",
+      "X-Cache-Key" : "/data/2.5/weather/favicon.ico?",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET, POST"
+    }
+  },
+  "uuid" : "79480d71-23b9-383f-ae81-24cdd8b61666"
+}
