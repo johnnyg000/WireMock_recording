@@ -7,11 +7,11 @@ If you need help setting up the environment please ask, or simply strip out my v
 
 OpenWeather API (and the API docs) - http://api.openweathermap.org/data/2.5/weather 
 
-It's a good idea to have a decent ext editor installed, I use Atom - https://atom.io/
+It's a good idea to have a decent text editor installed, I use Atom - https://atom.io/
 I recommend you install this package to prettify any JSON objects - https://atom.io/packages/pretty-json 
 This can be done from the preferences within Atom (it's really easy - but I'm happy to help just ping me or ask Google :P) 
 
-Lastly this guy seems to know a whole lot about WireMock, please check it out - https://handstandsam.com/category/wiremock/
+This guy seems to know a whole lot about WireMock, please check it out - https://handstandsam.com/category/wiremock/
 I know It has Android in the name but it's worth a look, and the video recourses helped me a lot.
 
 Lastly I would like to point you guys towards the WireMock docs - http://wiremock.org/docs/record-playback/
